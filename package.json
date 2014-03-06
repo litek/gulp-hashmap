@@ -1,6 +1,6 @@
 {
   "name": "gulp-hashmap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a JSON file of file hashes",
   "homepage": "https://github.com/litek/gulp-hashmap",
   "repository": "https://github.com/litek/gulp-hashmap.git",
